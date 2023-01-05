@@ -1,7 +1,7 @@
-### Yap470 Hw2
+### NeuralNetworkImplementation
 You can run the best model with the code given below
 ```bash
-    python3 Hw2.py
+    python3 main.py
 ```
 If you want to initialize a model you can call NeuralNetwork class:
 ```python
