@@ -1,5 +1,7 @@
 ### NeuralNetworkImplementation
-You can run the best model with the code given below
+You can find the simple usage of the implemented NeuralNetwork class in main.py. The sample dataset in that script is [Boston house prices dataset](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices). To run the sample code you need to install dataset first.
+
+You can run the code as down below:
 ```bash
     python3 main.py
 ```
